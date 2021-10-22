@@ -32,14 +32,15 @@ export const HomePage = () => {
             </div>
             <div className="secondary">
             <Switch>
-            <Route exact path="/">
-            <StudentLogin />
-          </Route>
-          <Route path="/TeacherLogin">
+
+          <Route exact path="/TeacherLogin">
             <TeacherLogin />
           </Route>
           <Route path="/AdminLogin">
             <AdminLogin />
+          </Route>
+          <Route path="/">
+            <StudentLogin />
           </Route>
 
         </Switch>
