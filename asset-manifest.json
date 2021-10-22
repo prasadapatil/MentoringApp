@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MentoringApp/static/css/main.97d59141.chunk.css",
+    "main.js": "/MentoringApp/static/js/main.67976cb5.chunk.js",
+    "main.js.map": "/MentoringApp/static/js/main.67976cb5.chunk.js.map",
+    "runtime-main.js": "/MentoringApp/static/js/runtime-main.9a89eb48.js",
+    "runtime-main.js.map": "/MentoringApp/static/js/runtime-main.9a89eb48.js.map",
+    "static/js/2.8e8f738b.chunk.js": "/MentoringApp/static/js/2.8e8f738b.chunk.js",
+    "static/js/2.8e8f738b.chunk.js.map": "/MentoringApp/static/js/2.8e8f738b.chunk.js.map",
+    "static/js/3.2a0065d1.chunk.js": "/MentoringApp/static/js/3.2a0065d1.chunk.js",
+    "static/js/3.2a0065d1.chunk.js.map": "/MentoringApp/static/js/3.2a0065d1.chunk.js.map",
+    "index.html": "/MentoringApp/index.html",
+    "static/css/main.97d59141.chunk.css.map": "/MentoringApp/static/css/main.97d59141.chunk.css.map",
+    "static/js/2.8e8f738b.chunk.js.LICENSE.txt": "/MentoringApp/static/js/2.8e8f738b.chunk.js.LICENSE.txt",
+    "static/media/homepage.css": "/MentoringApp/static/media/college_banner_main.73f5f898.jpg",
+    "static/media/logo_des.1f95952e.png": "/MentoringApp/static/media/logo_des.1f95952e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a89eb48.js",
+    "static/js/2.8e8f738b.chunk.js",
+    "static/css/main.97d59141.chunk.css",
+    "static/js/main.67976cb5.chunk.js"
+  ]
+}
